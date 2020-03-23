@@ -8,12 +8,12 @@
 8. Guardar a nova data obtida; 
 9. A partir do valor do número do mês da data obtida; 
     1. Se o valor for maior que 12, deve-se subtrair 12 dele,  adicionar uma unidade no número do ano e guardar os novos valores do ano e do mês, voltar para (9.). 
-    2. Se o valor for menor que 12, seguir para a etapa (12.). 
+    2. Se o valor for menor que 12, seguir para a etapa (10.). 
 10. A partir do valor do mês; 
     1. Se for ímpar, observar se o valor do dia é maior que 31; 
-        1. Caso sim, deve-se subtrair 31 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (12.); 
-        2. Caso não, prossiga pra (19.); 
+        1. Caso sim, deve-se subtrair 31 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (10.); 
+        2. Caso não, prossiga pra (11.); 
     2. Se for par, observar se o valor do dia é maior que 30; 
-        1. Caso sim, deve-se subtrair 30 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (12.); 
-        2. Caso não, prossiga pra (19.); 
+        1. Caso sim, deve-se subtrair 30 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (10.); 
+        2. Caso não, prossiga pra (11.); 
 11. Escrever a saída. 
