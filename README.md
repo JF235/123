@@ -11,9 +11,9 @@
     2. Se o valor for menor que 12, seguir para a etapa (12.). 
 10. A partir do valor do mês; 
     1. Se for ímpar, observar se o valor do dia é maior que 31; 
-        - Caso sim, deve-se subtrair 31 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (12.); 
-        - Caso não, prossiga pra (19.); 
+        1. Caso sim, deve-se subtrair 31 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (12.); 
+        2. Caso não, prossiga pra (19.); 
     2. Se for par, observar se o valor do dia é maior que 30; 
-        - Caso sim, deve-se subtrair 30 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (12.); 
-        - Caso não, prossiga pra (19.); 
+        1. Caso sim, deve-se subtrair 30 dele, somar uma unidade ao mês, guardar os novos valores do mês e do dia, voltar para (12.); 
+        2. Caso não, prossiga pra (19.); 
 11. Escrever a saída. 
