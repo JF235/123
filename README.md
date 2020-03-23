@@ -1,3 +1,19 @@
+# Instruções Permitidas 
+
+- Guardar valores e datas. 
+- Escrever valores e datas. 
+- Saber as orientações direita e esquerda. 
+- Saber as orientações acima e abaixo. 
+- Elemento neutro igual a zero. 
+- Contar algarismos. 
+- Reconhecer das unidades, centenas, dezenas, milhares, dezenas de milhares. 
+- Alinhar as verticalmente valores. 
+- Somar e Subtrair. 
+- Reconhecer valores impares e pares. 
+- Efetuar desigualdades (valores maiores que outros). 
+
+# Algoritmos 
+
 1. Guardar as entradas; 
 2. Escrever as entradas; 
 3. Completar os dias e meses com apenas um algarismo com o elemento neutro à esquerda; 
