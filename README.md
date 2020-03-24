@@ -16,7 +16,8 @@
 
 # Algoritmo 
 1. Identificar a mão direita e esquerda; 
-
+2. Molhar ambas maos;
+3. Ensaboar ambas maos;
 2. Colocar a mão direita a direita com a palma para esquerda e polegar para cima; 
 3. Colocar a mão esquerda a esquerda com a palma para direita e polegar para cima; 
 4. Abrir a mão; 
