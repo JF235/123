@@ -8,13 +8,16 @@
 4. Ordenar os numeros primos.
 5. Selecionar o menor dos primos.
 5. Dividir todos os numeros pelo primo selecionado. 
+1.Se o numero for divisivel pelo primo:
+
+    1. Somar 1 ao valor associado a esse numero.
+    2. Registrar quantas vezes esse valor foi divido por ess primo.
+    2. Anotar o quociente inteiro no lugar do numero.
+
+1. Se o numero nao for divisivel pelo primo:
+
+    1. Nao fazer nada com o numero e o seu valor associado.
     
-    1.Se o numero for divisivel pelo primo:
-  1. Somar 1 ao valor associado a esse numero.
-  2. Registrar quantas vezes esse valor foi divido por ess primo.
-2. Anotar o quociente inteiro no lugar do numero.
-  * Se o numero nao for divisivel pelo primo:
-1. Nao fazer nada com o numero e o seu valor associado.
 6. Equanto houver numeros que somam 1 ao seu valor associado, repita 5., senao prossiga para 7.
 7. Selecionar o proximo primo.
 8. Se houver algum numero diferente de 1, volte para 5. Senao, prossiga para 9.
