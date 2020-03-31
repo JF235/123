@@ -22,7 +22,7 @@
 9. Adicione 1 a todos os valores associados.
 10. Para cada numero entre todos os n:
 
-        1. Divida o fatorial do valor associado a cada numero pelo fatorial das vezes que cada primo se repetiu.
-        2. Registre o resultado no lugar do valor associado.
+    1. Divida o fatorial do valor associado a cada numero pelo fatorial das vezes que cada primo se repetiu.
+    2. Registre o resultado no lugar do valor associado.
 11. Coloque todos os resultados em ordem decrescente.
 12. Devolva o primeiro numero.
