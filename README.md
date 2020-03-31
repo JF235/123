@@ -7,7 +7,7 @@
 3. Selecionar todos os numeros primos menores ou iguais o maior numero.
 4. Ordenar os numeros primos.
 5. Selecionar o menor dos primos.
-5. Dividir todos os numeros pelo primo selecionado. 
+5. Dividir todos os numeros pelo primo selecionado.
 1.Se o numero for divisivel pelo primo:
 
     1. Somar 1 ao valor associado a esse numero.
