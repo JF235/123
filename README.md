@@ -1,24 +1,20 @@
-# Entrada  
+# Instrucoes elementares
 
-1. O problema aceita um par de entradas, representando datas (podem ser distintas ou semelhantes entre si). 
-2. Ambas as datas serão escritas da seguinte maneira:  
-
-**aaaa.mm.dd**  
-  
-* No campo 'aaaa', estará escrito o número do ano, definido em todo espaço dos inteiros (sendo o intervalo negativo o período AEC – Antes da Era Comum).  
-* No campo 'mm', estará escrito o número do mês, definido no intervalo dos inteiros entre 01 e 12.  
-Nos dias entre 0 e 9, o elemento neutro 0 será colocado a esquerda do número. 
-* No campo 'dd', estará escrito o número do dia, em um intervalo que varia conforme o algoritmo, mas tem alcance entre 28 e 31.  
-Nos dias entre 0 e 9, o elemento neutro 0 será colocado à esquerda do número. 
- 
-# Saída  
- 
-Após o algoritmo, o programa devolvera uma saída única representando uma terceira data, na forma:  
- 
-**aaaa.mm.dd**  
-
-* No campo 'aaaa', estará escrito o número do ano, definido em todo espaço dos inteiros (sendo o intervalo negativo o período AEC – Antes da Era Comum).  
-* No campo 'mm', estará escrito o número do mês, definido no intervalo dos inteiros entre 1 e 12. 
-Nos dias entre 0 e 9, o elemento neutro 0 será colocado a esquerda do número.  
-* No campo 'dd', estará escrito o número do dia, em um intervalo que varia conforme o algoritmo, mas tem alcance entre 28 e 31. 
-Nos dias entre 0 e 9, o elemento neutro 0 será colocado à esquerda do número. 
+# Algoritmo
+1. Tomar nota de todos os n números inteiros positivos.
+2. Ordena os numeros anotados de forma crescente.
+3. Tomar nota de um valor associado a cada numero, que a principio e 0.
+3. Selecionar todos os numeros primos menores que o maior numero.
+4. Ordenar os numeros primos.
+5. Selecionar o menor dos primos.
+5. Dividir todos os numeros pelo primo selecionado. 
+  1. Se o numero for divisivel pelo primo:
+    1. Somar 1 ao valor associado a esse numero.
+    2. Registrar quantas vezes esse valor foi divido por ess primo.
+    2. Anotar o quociente inteiro no lugar do numero.
+  2. Se o numero nao for divisivel pelo primo:
+    1. Nao fazer nada com o numero e o seu valor associado.
+6. Equanto houver numeros que somam 1 ao seu valor associado, repita 5., senao prossiga para 7.
+7. Selecionar o proximo primo.
+8. Se houver algum numero diferente de 1, volte para 5. Senao, prossiga para 9.
+9. Adicione 1 a todos os valores associados.
