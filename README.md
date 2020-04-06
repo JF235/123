@@ -1,35 +1,15 @@
-# Instruções elementares
-* Efetuar Operações algébricas básicas;
-* Tomar nota de valores;
-* Registrar valores;
-* Encontrar números primos;
-* Associar um valor a outro;
-* Distinguir valores maiores e menores;
-* Ordenar valores de forma crescente e decrescente;
-* Saber quando um número é divisível por outro;
-* Checar a ocorrência de valores;
-* Devolver valores.
-
-# Algoritmo
-1. Tomar nota de todos os n números inteiros positivos;
-3. Selecionar todos os números primos menores ou iguais ao maior número anotado;
-4. Ordenar os números primos de forma crescente;
-5. Selecionar o primeiro primo;
-6. Dividir todos os números pelo primo selecionado. 
-7. Se o número for divisível pelo primo:
-
-    1. Registrar quantas vezes esse número foi dividido por esse primo em um valor associado a ele;
-    2. Anotar o quociente inteiro da divisão no lugar do número.
-8. Se o número não for divisível pelo primo:
-
-    1. Não fazer nada com o número e o seu valor associado. 
-9. Equanto houver números divisíveis pelo primo, repita 6., senão prossiga para 10.;
-10. Se houver algum número diferente de 1, selecione o próximo primo e volte para 6.;
-11. Senão, prossiga para 12.;
-12. Para cada número entre todos os n:
-
-    1. Adicione 1 a todos os valores associados ao número de vezes dividido por um mesmo primo;
-    3. Multiplique todos esses valores;
-    2. Tome nota do resultado no lugar do valor associado.
-13. Coloque todos os números em ordem decrescente com relação ao valor associado.
-14. Devolva o primeiro dos número.
+questao1.md
+# Conceitos
+   
+   Um **algoritmo** consiste, conceitualmente, em uma serie de etapas finitas, que podem ser realizadas de forma inambigua, seguindo uma sequencia sistematica e com a finalidade de resolver um problema. 
+    Dessa forma, para melhor compreensao desse conceito, e fundamental a descricao conceitual de um **problema**. Esse seria qualquer situacao em que a partir de um ponto inicial, e de seus respectivos recursos, chegaremos a um ponto final, e ao que se deseja obter com relacao ao que foi, a principio, fornecido. Essas duas esferas de um problema denotaremos, respectivamente, por **entrada** e **saida**.
+    O processo e as intrucoes seguidas para converter uma entrada possivel em uma saida desejada seria o algoritmo.
+    
+# Tarefa 
+   
+   O problema algoritmico descrito na tarefa, que consiste na obtencao de um balde com um litro de agua (saida) a partir dos baldes A, B e C com, respectivamente, 2, 7 e 4 litros, sendo que o Balde B esta cheio (entrada), recebe uma sugestao para ser resolvido, que analisaremos segundo a definicao e as caracteristicas se essa pode ser classificada como um algoritmo.
+    A sugestao apresentada:
+    
+* Despeje água do balde B no balde A até a borda;
+* Despeje metade da água do balde A no balde C;
+* Entregue o balde A.
