@@ -48,4 +48,7 @@ com ';' para dar continuidade e '.' para encerrar as etapas.
 
 ### 4. Sempre que receber uma entrada possível, será fornecida uma respectiva saída ao finalizar.
 
-Essa característica também é contemplada. A partir dos baldes iniciais, com 7 litros de água, pode se obter um balde com 1 litro. E de fato isso e feito, sendo esse devolvido ao final.
+Essa característica também é contemplada. A partir dos baldes iniciais, com 7 litros de água, pode se obter um balde com 1 litro. E de fato isso é feito, sendo esse devolvido ao final.
+
+Conclui-se, a partir dessa análise, que a sugestão se aproxima a um algoritmo. 
+Entretanto, por conta da imprecisão na hora de se pedir para despejar um meio balde, devido a ausência de indicação, ele não é classificado como tal.
