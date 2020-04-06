@@ -54,4 +54,4 @@ Essa característica também é contemplada. A partir dos baldes iniciais, com 7
 
 # Conclusão
 Conclui-se, a partir dessa análise, que a sugestão se aproxima a um algoritmo. 
-Entretanto, por conta da imprecisão na hora de se pedir para despejar um meio balde, devido a ausência de indicação, ele não é classificado como tal.
+Entretanto, por conta da imprecisão na hora de se pedir para despejar um meio balde, devido a ausência de indicação, ele não é classificado como tal e o certo seria usar apenas a indicação de um balda completamente cheio.
