@@ -3,7 +3,7 @@
 Um **algoritmo** consiste, conceitualmente, em uma série de etapas finitas, que podem ser realizadas de forma inambígua,
 seguindo uma sequência sistemática e com a finalidade de resolver um problema.
 
-Dessa forma, para a melhor compreensão desse conceito, é fundamental a descrição conceitual de um problema. 
+Dessa forma, para a melhor compreensão desse conceito, é fundamental a descrição conceitual de um **problema**. 
 
 Esse seria qualquer situação em que a partir de um ponto inicial, e de seus respectivos recursos, chegaremos a um ponto final,
 e ao que se deseja obter com relação ao que foi, a princípio, fornecido. Essas duas esferas de um problema denotaremos,
@@ -15,16 +15,16 @@ O processo e as instruções seguidas para converter uma entrada possível em um
 
 O problema algorítmico descrito na tarefa, que consiste na obtenção de um balde com um litro de agua (saída)
 a partir dos baldes A, B e C com, respectivamente, 2, 7 e 4 litros, sendo que o Balde B está cheio (entrada),
-recebe uma sugestão para ser resolvido, que analisaremos segundo a definição e as características se essa pode ser classificada
-como um algoritmo.
+recebe uma sugestão para ser resolvido, que analisaremos segundo a definição e as características, a fim de analisar se essa pode ser classificada como um algoritmo.
 
 A sugestão apresentada:
 
 "Um amigo gostaria de, sem desperdiçar água, separar um litro, mas não há indicadores de medida nos baldes.
 Ele sugeriu o procedimento abaixo.
-•	Despeje água do balde B no balde A até a borda;
-•	Despeje metade da água do balde A no balde C;
-•	Entregue o balde A."
+
+* Despeje água do balde B no balde A até a borda;
+* Despeje metade da água do balde A no balde C;
+* Entregue o balde A."
 
 Levando em consideração as características de algoritmos, temos:
 
