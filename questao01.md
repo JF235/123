@@ -35,8 +35,10 @@ Essa característica é respeitada pela sugestão, pois são realizados apenas 3
 ### 2. O algoritmo deve conter instruções elementares que possam ser compreendidas de forma clara.
 
 A segunda característica que define um algoritmo apresenta um problema.
+
 Seguindo a sugestão, encontraremos durante a execução dos procedimentos uma informação imprecisa
 que desconsidera as limitações oferecidas por quem vai realizar tal tarefa.
+
 Na medida que se executa o algoritmo, a instrução "Despeje metade da água do balde A no balde C",
 não convêm e se torna ambígua a partir das limitações do processo: "mas não há indicadores de medida nos baldes",
 fazendo que não se possa ter uma medida precisa de meio balde.
