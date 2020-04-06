@@ -19,4 +19,25 @@ questao1.md
 * Despeje metade da água do balde A no balde C;
 * Entregue o balde A."
 
-   Levando em consideracao 
+
+Levando em consideracao as caracteristicas de algoritmos, temos:
+   
+### 1. Deve ser uma sequencia de instrucoes finitas.
+  
+  Essa caracteristica e respeitada pela sugestao, pois sao realizados apenas 3 procedimentos
+
+### 2. O algoritmo deve conter instrucoes elementares que possam ser compreendidas de forma clara.
+
+   A segunda caracteristica que define um algoritmo apresenta um problema. 
+   
+   Seguindo a sugestao, encontraremos durante a execucao dos procedimentos uma informacao inprecisa que desconsidera as limitacoes oferecidas por quem vai realizar tal tarefa.
+   
+   Na medida que se executa o algoritmo, a instrucao "Despeje metade da água do balde A no balde C", nao convem e se torna ambigua a partir das limitacoes do processo: "mas não há indicadores de medida nos baldes", fazendo que nao se possa ter uma nocao precisa de meio balde.
+
+### 3. O algoritmo deve conter uma sequencia sistematica de passos
+
+   Essa caracteristica tambem ee contemplada pela sugestao, pois os passos seguem um processo de listagem, com ';' para da continuidade e '.' para encerrar as etapas.
+
+### 4. Sempre que receber uma entrada possivel, sera fornecida uma respectiva saida ao finalizar.
+
+   Essa caracteristica tambem eh contemplada. A partir dos baldes iniciais, com 7 litros de agua, pode se obter um balde com 1 litro. E de fato isso e feito, sendo esse devolvido ao final.
