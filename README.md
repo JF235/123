@@ -12,7 +12,11 @@ questao1.md
    O problema algoritmico descrito na tarefa, que consiste na obtencao de um balde com um litro de agua (saida) a partir dos baldes A, B e C com, respectivamente, 2, 7 e 4 litros, sendo que o Balde B esta cheio (entrada), recebe uma sugestao para ser resolvido, que analisaremos segundo a definicao e as caracteristicas se essa pode ser classificada como um algoritmo.
    
    A sugestao apresentada:
-    
+   
+   "Um amigo gostaria de, sem desperdiçar água, separar um litro, mas não há indicadores de medida nos baldes. Ele sugeriu o procedimento abaixo.
+   
 * Despeje água do balde B no balde A até a borda;
 * Despeje metade da água do balde A no balde C;
-* Entregue o balde A.
+* Entregue o balde A."
+
+   Levando em consideracao 
